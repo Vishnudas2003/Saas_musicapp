@@ -7,3 +7,4 @@
         - users can add stream
         - users upvote/cancel upvote on streams
         - Lets everyone fetch the cirrent streams (wih their upvotes)
+        
